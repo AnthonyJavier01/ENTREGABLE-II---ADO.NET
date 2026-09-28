@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\data\\servicios\\ordendetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\data\\servicios\\ordendetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\menus\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\menus\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\data\\servicios\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\data\\servicios\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\data\\repositorios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\data\\repositorios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\data\\repositorios\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\data\\repositorios\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|d:\\documentos\\entregables nttdata\\entregable-ii---ado.net\\entregableadonet\\entregableadonet\\data\\repositorios\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BFD6B0-3A09-AE98-1EC8-A90BB8DE6C7F}|EntregableADONET\\EntregableADONET.csproj|solutionrelative:entregableadonet\\data\\repositorios\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenDetalleService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Servicios\\OrdenDetalleService.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Data\\Servicios\\OrdenDetalleService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Servicios\\OrdenDetalleService.cs",
+              "RelativeToolTip": "EntregableADONET\\Data\\Servicios\\OrdenDetalleService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwHQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T16:03:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuHelper.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Menus\\MenuHelper.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Menus\\MenuHelper.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Menus\\MenuHelper.cs",
+              "RelativeToolTip": "EntregableADONET\\Menus\\MenuHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T16:38:07.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Menus\\MainMenu.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "EntregableADONET\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwNMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:04:27.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Servicios\\ProductosService.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Data\\Servicios\\ProductosService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Servicios\\ProductosService.cs",
+              "RelativeToolTip": "EntregableADONET\\Data\\Servicios\\ProductosService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:19:17.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Repositorios\\IRepository.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Data\\Repositorios\\IRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Repositorios\\IRepository.cs",
+              "RelativeToolTip": "EntregableADONET\\Data\\Repositorios\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:32:33.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Repositorios\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Data\\Repositorios\\ClientesRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Repositorios\\ClientesRepository.cs",
+              "RelativeToolTip": "EntregableADONET\\Data\\Repositorios\\ClientesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:28:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriasRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Repositorios\\CategoriasRepository.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Data\\Repositorios\\CategoriasRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Data\\Repositorios\\CategoriasRepository.cs",
+              "RelativeToolTip": "EntregableADONET\\Data\\Repositorios\\CategoriasRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwKsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:58:18.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Program.cs",
+              "RelativeDocumentMoniker": "EntregableADONET\\Program.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-II---ADO.NET\\EntregableADONET\\EntregableADONET\\Program.cs",
+              "RelativeToolTip": "EntregableADONET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:47:04.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
